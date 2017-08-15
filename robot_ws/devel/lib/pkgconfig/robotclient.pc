@@ -1,0 +1,8 @@
+prefix=/home/tomek/TheTitans/robot_ws/devel
+
+Name: robotclient
+Description: Description of robotclient
+Version: 0.0.0
+Cflags: -I/home/tomek/TheTitans/robot_ws/devel/include
+Libs: -L/home/tomek/TheTitans/robot_ws/devel/lib 
+Requires: 

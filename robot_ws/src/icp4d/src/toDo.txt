@@ -1,0 +1,10 @@
+To Do
+
+3. move some functions from algorithm to vehicle and features. 
+
+implement the T_s affect in prediction
+
+Implement the featurebeliev indyvidually for each vehicle!!!
+Fix the consensus as the only information passed after the vehicle communication
+
+Check the implementation of cases vhere only one vehicle or one feature!!! in incoming to 'g'

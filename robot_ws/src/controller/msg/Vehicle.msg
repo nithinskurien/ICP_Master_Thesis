@@ -1,0 +1,9 @@
+Header header
+float32 ts
+float32 heading
+float32 x_meas
+float32 y_meas
+float32 x_icp
+float32 y_icp
+float32 x_actual_meas
+float32 y_actual_meas
