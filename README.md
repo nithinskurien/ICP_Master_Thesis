@@ -1,2 +1,2 @@
-# SSYX02-16-27
-Bachelor's thesis robot code.
+# ICP
+Master thesis robot code.
